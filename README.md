@@ -156,6 +156,12 @@ The final Decision Tree model demonstrated strong predictive performance while m
 
 ---
 
+## Feature Importance
+
+![Feature_importance](Feature_importance.png)
+
+---
+
 ## Author
 
 **Preeti Sahu**
