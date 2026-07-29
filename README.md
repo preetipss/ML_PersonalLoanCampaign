@@ -172,8 +172,6 @@ The final Decision Tree model demonstrated strong predictive performance while m
 
 ---
 
----
-
 ## Author
 
 **Preeti Sahu**
