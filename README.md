@@ -156,9 +156,21 @@ The final Decision Tree model demonstrated strong predictive performance while m
 
 ---
 
+
+## Model Performance
+
+![Model Performance](images/Models_Performance.png)
+
+## Decision Tree Comparison
+
+![Decision Tree Comparison](images/Tree_Comparison.png)
+
 ## Feature Importance
 
-![Feature_importance](Feature_importance.png)
+![Feature Importance](images/Feature_importance.png)
+
+
+---
 
 ---
 
