@@ -132,12 +132,8 @@ ML_PersonalLoanCampaign/
 │
 ├── ML_PersonalLoanCampaign.ipynb
 ├── README.md
-├── requirements.txt
 ├── images/
-└── data/ (optional)
-```
-
----
+└── data/
 
 ## Results
 
